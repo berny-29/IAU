@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d45db4-d709-4335-a707-d5d1c0ee6387" name="Changes" comment="table join + graphs">
-      <change afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
+    <list default="true" id="18d45db4-d709-4335-a707-d5d1c0ee6387" name="Changes" comment="c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IAU_projekt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IAU_projekt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,7 @@
       <workItem from="1666467370856" duration="49000" />
       <workItem from="1666548527966" duration="2112000" />
       <workItem from="1666552806244" duration="5468000" />
-      <workItem from="1666594009223" duration="463000" />
+      <workItem from="1666594009223" duration="6011000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1664790482163</created>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665488423787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="c">
+      <created>1666594544441</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666594544441</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +226,8 @@
     <MESSAGE value="4" />
     <MESSAGE value="uniform time format" />
     <MESSAGE value="table join + graphs" />
-    <option name="LAST_COMMIT_MESSAGE" value="table join + graphs" />
+    <MESSAGE value="c" />
+    <option name="LAST_COMMIT_MESSAGE" value="c" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/project_1$main.coverage" NAME="main Coverage Results" MODIFIED="1665955881842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
